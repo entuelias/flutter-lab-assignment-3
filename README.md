@@ -48,7 +48,7 @@ Build a mobile app that:
    ```bash
    git clone https://github.com/your-username/flutter-lab-assignment-3.git
    cd flutter-lab-assignment-3
-````
+
 
 2. Get packages:
 
@@ -62,7 +62,7 @@ Build a mobile app that:
    flutter run
    ```
 
----
+
 
 ## 🧪 Requirements Checklist
 
@@ -74,7 +74,7 @@ Build a mobile app that:
 ✅ Navigation with `go_router`
 ✅ Clean architecture (MVVM)
 🟡 Bloc folder setup (logic to be added)
----
+
 
 ## 📎 Author
 
@@ -82,8 +82,8 @@ Build a mobile app that:
 Third-Year Software Engineering Student
 [GitHub Profile](https://github.com/entuelias) | [LinkedIn](https://www.linkedin.com/in/entisar-elias-q/)
 
----
 
-````
+
+
 
 
