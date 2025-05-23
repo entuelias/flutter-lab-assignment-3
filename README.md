@@ -73,7 +73,7 @@ Build a mobile app that:
 ✅ Loading states
 ✅ Navigation with `go_router`
 ✅ Clean architecture (MVVM)
-🟡 Bloc folder setup (logic to be added)
+🟡 Bloc folder setup 
 
 
 ## 📎 Author
